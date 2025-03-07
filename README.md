@@ -1,4 +1,4 @@
-Lista de Exercícios – Funções(27/02/2025)
+Lista de Exercícios – Funções (27/02/2025)
 
 Exercício 1: Crie uma função que receba dois números como parâmetros e
 retorne a soma deles.
