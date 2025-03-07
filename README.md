@@ -29,3 +29,30 @@ fornecida.
 
 Exercício 10: Crie uma função que receba uma lista de números e retorne essa
 lista ordenada em ordem crescente.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Segunda Lista de Exercícios – Funções (27/02/2025)
+
+1. Crie uma função que recebe duas palavras e retorna True se forem
+anagramas uma da outra.
+
+2. Crie uma função que recebe uma lista de números e retorna a
+quantidade de números positivos.
+
+3. Crie uma função que recebe uma lista de números e retorna a
+quantidade de números que são múltiplos de 3.
+
+4. Crie uma função que recebe uma lista de palavras e junta tudo em uma
+única frase.
+
+5. Crie uma função que recebe uma lista de números e substitui os
+números negativos por zero.
+
+6. Crie uma função que recebe uma lista de palavras e retorna a palavra
+com mais letras.
+
+7. Crie uma função que recebe uma lista de números e retorna a soma
+apenas dos números pares.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
